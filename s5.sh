@@ -17,4 +17,4 @@ mul=$( echo "$a * $b" | bc )
 echo "Multiplication of 2 numbers is $mul"
 
 Div=$( echo "$a / $b" | bc )
-echo "Division of 2 numbers is $Div"
+echo "Division of 2 numbers is $Div cloning"
