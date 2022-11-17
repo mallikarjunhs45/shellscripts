@@ -18,4 +18,4 @@ echo "Multiplication of 2 numbers is $mul"
 
 Div=$( echo "$a / $b" | bc )
 
-echo "Quotient of 2 numbers is $Div testing clone3"
+echo "Quotient of 2 numbers is $VINEESH  testing clone3"
