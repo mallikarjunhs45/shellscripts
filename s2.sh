@@ -2,4 +2,4 @@
 
 dir=`pwd`
 
-echo "The current working directory is $dir"
+echo "The current working directory is $dir pooja commit"
