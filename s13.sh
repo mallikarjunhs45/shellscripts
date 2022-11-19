@@ -26,3 +26,4 @@ then
 else 
 	echo "the number $d is greater"
 fi
+testing fetch
