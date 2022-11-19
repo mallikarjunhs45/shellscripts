@@ -19,3 +19,4 @@ then
 else
 	echo "The number $c is greater"
 fi
+checking fetch
