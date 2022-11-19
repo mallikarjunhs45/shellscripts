@@ -14,3 +14,4 @@ else
 	echo "The number $b is greater"
 
 fi
+echo "testing fetch"
