@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "deploying war file"
 rm -rf hello-world-war
 git clone https://github.com/sharathkj03/hello-world-war.git
 cd hello-world-war
