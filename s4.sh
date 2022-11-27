@@ -1,10 +1,6 @@
 #!/bin/bash
-
-echo "Enter the 1st number"
-read a
-echo "Enter the 2nd number"
-read b
-
+a=$1
+b=$2
 sum=`expr $a + $b`
 echo "Sum of 2 numbers is $sum"
 
@@ -15,5 +11,5 @@ mul=`expr $a \* $b`
 echo "Multiplication of 2 numbers is $mul"
 
 Div=`expr $a / $b`
-echo "Division of 2 numbers is $Div clone testing1"
+echo "Division of 2 numbers is $Div"
 
