@@ -25,4 +25,4 @@ sudo cp conf-and-webapps-file/contexthm.xml /opt/tomcat/webapps/host-manager/MET
 sudo sh /opt/tomcat/bin/shutdown.sh
 sleep 2
 sudo sh /opt/tomcat/bin/startup.sh
-echo "triggering from webhook"
+echo "triggering from webhook git"
