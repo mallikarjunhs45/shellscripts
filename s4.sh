@@ -1,6 +1,6 @@
 #!/bin/bash
-a=$1
-b=$2
+a=20
+b=30
 sum=`expr $a + $b`
 echo "Sum of 2 numbers is $sum"
 
